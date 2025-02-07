@@ -51,3 +51,5 @@ Plat has most general and most level tool marry benefit scale.
 Plat has most general and most level tool marry benefit scale cap limit.
 
 Plat has most general and most level tool marry benefit scale cap receive.
+
+Plat has most general and most level tool marry benefit scale up receive.
