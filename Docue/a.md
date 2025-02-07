@@ -37,3 +37,5 @@ Plat has most general and most level tool benefit scale cap receive.
 Plat has most general and most level tool benefit scale up receive.
 
 Plat has most general and most level tool benefit scale up cap limit.
+
+Plat has most general and most level tool benefit scale up cap receive.
