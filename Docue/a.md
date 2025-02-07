@@ -17,3 +17,5 @@ Plat has most general and most level cross benefit.
 Plat has most general and most level cross cap limit.
 
 Plat has most general and most level cross benefit cap limit.
+
+Plat has most general and most level cross benefit receive.
