@@ -13,3 +13,5 @@ Plat has most general and most level scale.
 Plat has most general and most level cross.
 
 Plat has most general and most level cross benefit.
+
+Plat has most general and most level cross cap limit.
