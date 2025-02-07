@@ -27,3 +27,5 @@ Plat has most general and most level tool benefit.
 Plat has most general and most level tool benefit cap limit.
 
 Plat has most general and most level tool benefit receive.
+
+Plat has most general and most level tool benefit scale.
