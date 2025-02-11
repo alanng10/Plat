@@ -57,3 +57,9 @@ Plat has most general and most level tool marry benefit scale up receive.
 Plat has most general and most level tool marry benefit scale up cap limit.
 
 Plat has most general and most level tool marry benefit scale up cap receive.
+
+Plat has most general and most level tool arch.
+
+Plat has most general and most level tool value arch.
+
+Plat has most general and most level tool value arch worth.
