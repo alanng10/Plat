@@ -85,3 +85,7 @@ Plat has most general and most level tool plat arch.
 Plat has most general and most level tool plat arch worth.
 
 Plat has most general and most level worth.
+
+Plat has most general and most level arch.
+
+Plat has most general and most level arch worth.
