@@ -22,7 +22,7 @@ Plat has park cross benefit receive.
 
 Plat has park cross scale.
 
-Plat has park tool benefit. 
+Plat has park tool benefit.
 
 Plat has park tool benefit cap limit.
 
